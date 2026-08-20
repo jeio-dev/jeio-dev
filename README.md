@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=jeio-dev)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jeio-dev&rank_icon=percentile&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=jeio-dev&rank_icon=percentile&show_icons=true&include_all_commits=true)[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jeio-dev&layout=compact&langs_count=4&hide_values=true)](https://github-stats-extended.vercel.app/api/top-langs?username=jeio-dev&layout=compact&langs_count=4&hide_values=true)
 <!--
 **jeio-dev/jeio-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
