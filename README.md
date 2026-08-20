@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jeio-dev&rank_icon=percentile&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=jeio-dev&rank_icon=percentile&show_icons=true&include_all_commits=true) [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jeio-dev&layout=compact&langs_count=8&hide_values=true)](https://github-stats-extended.vercel.app/api/top-langs?username=jeio-dev&layout=compact&langs_count=8&hide_values=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jeio-dev&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=default_repocard)](https://github-stats-extended.vercel.app/api?username=jeio-dev&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=default_repocard)[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jeio-dev&layout=compact&langs_count=8&hide_values=true&theme=default_repocard)](https://github-stats-extended.vercel.app/api/top-langs?username=jeio-dev&layout=compact&langs_count=8&hide_values=true&theme=default_repocard)
 <!--
 **jeio-dev/jeio-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
