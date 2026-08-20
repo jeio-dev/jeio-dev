@@ -1,5 +1,7 @@
 ## Hi there 👋
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jeio-dev&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=default_repocard)](https://github-stats-extended.vercel.app/api?username=jeio-dev&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=default_repocard)[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jeio-dev&layout=compact&langs_count=8&hide_values=true&theme=default_repocard)](https://github-stats-extended.vercel.app/api/top-langs?username=jeio-dev&layout=compact&langs_count=8&hide_values=true&theme=default_repocard)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jeio-dev&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=jeio-dev&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent)
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 <!--
 **jeio-dev/jeio-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
