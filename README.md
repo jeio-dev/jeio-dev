@@ -1,3 +1,5 @@
+## Hello and welcome to my page
+
 ```yaml
 name: R-John Dela Cruz
 located_in: Rizal, PH
