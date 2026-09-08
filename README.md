@@ -22,7 +22,7 @@ fields_of_interests:
   ]
   
 currently_learning: ["Docker, Kubernetes, and React Native Expo"]
-2026 Goals: ["Deploy 5 mobile applications and learn about new tech for 5-15mins a day."]
+2026 Goals: ["Deploy 5 applications (Web or Mobile) and learn about new tech for 5-15mins a day."]
 hobbies: ["Gaming", "Movies", "Reading (a bit, lol)"]
 ```
 
